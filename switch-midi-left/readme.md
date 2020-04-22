@@ -8,6 +8,14 @@ This is the device you can download and drag into Ableton.
 
 2. Then open Ableton and drag the .amxd into a midi track. 
 
+3. Select JoyConL in the drop down of the M4L device, should look like this
+
+
+![alt text](device.png "Logo Title Text 1")
+
+4. Add a drum rack or any instrument that accepts midi to the right and when you hit a button on the switch it should trigger that note on the instrument
+
+![alt text](midi.png "Logo Title Text 1")
 
 
 You can purchase the entire Ableton set I built [here](https://gum.co/SRoCs) in case you don't want to figure out how to get this running.
